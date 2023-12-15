@@ -1,7 +1,7 @@
 package main
 
-import "teste.com/options"
+import "teste.com/game"
 
 func main() {
-	options.ChoosenOption()
+	game.Game()
 }

@@ -1,4 +1,4 @@
-package options
+package game
 
 import (
 	"fmt"
@@ -7,7 +7,7 @@ import (
 	"teste.com/funcs"
 )
 
-func game() {
+func Game() {
 	fmt.Println("\n-------------------------------")
 	fmt.Println("	JOGO DE ADIVINHA")
 	fmt.Println("-------------------------------")
